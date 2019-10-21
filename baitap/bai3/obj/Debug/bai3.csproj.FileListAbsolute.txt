@@ -1,0 +1,10 @@
+D:\duynguyen\baitap\bai3\bin\Debug\bai3.exe.config
+D:\duynguyen\baitap\bai3\bin\Debug\bai3.exe
+D:\duynguyen\baitap\bai3\bin\Debug\bai3.pdb
+D:\duynguyen\baitap\bai3\obj\Debug\bai3.exe
+D:\duynguyen\baitap\bai3\obj\Debug\bai3.pdb
+E:\LT Windows\baitap\bai3\bin\Debug\bai3.exe.config
+E:\LT Windows\baitap\bai3\obj\Debug\bai3.exe
+E:\LT Windows\baitap\bai3\obj\Debug\bai3.pdb
+E:\LT Windows\baitap\bai3\bin\Debug\bai3.exe
+E:\LT Windows\baitap\bai3\bin\Debug\bai3.pdb

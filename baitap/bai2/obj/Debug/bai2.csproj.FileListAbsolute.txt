@@ -1,0 +1,5 @@
+D:\duynguyen\baitap\bai2\bin\Debug\bai2.exe.config
+D:\duynguyen\baitap\bai2\bin\Debug\bai2.exe
+D:\duynguyen\baitap\bai2\bin\Debug\bai2.pdb
+D:\duynguyen\baitap\bai2\obj\Debug\bai2.exe
+D:\duynguyen\baitap\bai2\obj\Debug\bai2.pdb
